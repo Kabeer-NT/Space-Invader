@@ -1,5 +1,5 @@
 # Space-Invader
-My Take on a classic 1978 Game
+My Take on a Classic 1978 Game
 
 As part of a free course provided by freeCodeCamp.org I have made the classic 1978 blockbuster - "Space Invaders". Most of the game was created under their guidance and instruction but I have also put some of my own features into it to make it even bigger and better. This is my first official project on GITHUB and I am very excited to share with you guys more in the future. Please do let me know what you think of the game itself and let me know if you find an issues or bugs with the game. 
 
