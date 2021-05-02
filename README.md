@@ -6,7 +6,11 @@ As part of a free course provided by freeCodeCamp.org I have made the classic 19
 A huge shotuout to freeCodeCamp, FlatIcon and FreePik.com and FreeSound for helping me with the resources I needed for this project. The links to all of these sites will be placed below for use of the audience. 
  
 freeCodeCamp Course: https://youtu.be/FfWpgLFMI7w
+
 freeCodeCamp Youtube Channel: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+
 Flaticon Website: https://www.flaticon.com
+
 Background Image: https://www.freepik.com
+
 Freesound Website: https://freesound.org
